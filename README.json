@@ -1,0 +1,279 @@
+{
+  "items": [
+    {
+      "description": "Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "facebook/react-native",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T17:52:25Z",
+            "owner": "react",
+            "repo": "react-native",
+            "stars": 126339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/guava",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T03:40:49Z",
+            "owner": "google",
+            "repo": "guava",
+            "stars": 51915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GyulyVGC/sniffnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:16:53Z",
+            "owner": "GyulyVGC",
+            "repo": "sniffnet",
+            "stars": 40526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netflix/Hystrix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-17T03:21:02Z",
+            "owner": "Netflix",
+            "repo": "Hystrix",
+            "stars": 24470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facebook/hhvm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:25:47Z",
+            "owner": "facebook",
+            "repo": "hhvm",
+            "stars": 18652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apple/foundationdb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:57:05Z",
+            "owner": "apple",
+            "repo": "foundationdb",
+            "stars": 16602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JustArchiNET/ArchiSteamFarm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T17:30:32Z",
+            "owner": "JustArchiNET",
+            "repo": "ArchiSteamFarm",
+            "stars": 13616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "internetarchive/openlibrary",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:11:55Z",
+            "owner": "internetarchive",
+            "repo": "openlibrary",
+            "stars": 6603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guard/guard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-16T07:46:14Z",
+            "owner": "guard",
+            "repo": "guard",
+            "stars": 6457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thinkaurelius/titan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-19T07:57:00Z",
+            "owner": "thinkaurelius",
+            "repo": "titan",
+            "stars": 5224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uber/NullAway",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T18:19:56Z",
+            "owner": "uber",
+            "repo": "NullAway",
+            "stars": 4089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS/aws-parallelcluster",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:35:30Z",
+            "owner": "aws",
+            "repo": "aws-parallelcluster",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperledger-cacti/cacti",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:59:24Z",
+            "owner": "hyperledger-cacti",
+            "repo": "cacti",
+            "stars": 412
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Search wiki of the repository on GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-15T01:30:18Z",
+            "owner": "linyows",
+            "repo": "github-wiki-search",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Wiki Action. Keep your dev docs in sync with your code",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Useful links with tips & tricks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenDeepWiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T17:56:31Z",
+            "owner": "AIDotNet",
+            "repo": "OpenDeepWiki",
+            "stars": 3529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepoWiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T15:54:55Z",
+            "owner": "he-yufeng",
+            "repo": "RepoWiki",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Wiki Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-14T09:31:35Z",
+            "owner": "Satttoshi",
+            "repo": "github-wiki-generator",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Popular AI Tools"
+    },
+    {
+      "description": "Contributions are very welcome! Please read the contribution guideline first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:41:58.637Z",
+    "original_repository": "MyHoneyBadger/awesome-github-wiki",
+    "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",
+    "enhanced_repository": "enhansome/enhansome-github-wiki",
+    "enhanced_repository_description": null,
+    "title": "Awesome GitHub Wikis with stars"
+  }
+}
