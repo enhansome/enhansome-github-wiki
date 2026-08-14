@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T17:52:25Z",
+            "last_commit": "2026-08-14T14:57:00Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126339
+            "stars": 126346
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T03:40:49Z",
+            "last_commit": "2026-08-14T17:20:51Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51915
+            "stars": 51917
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-12T18:16:53Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40526
+            "stars": 40534
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2025-12-17T03:21:02Z",
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24470
+            "stars": 24469
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T18:25:47Z",
+            "last_commit": "2026-08-14T18:26:48Z",
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18652
+            "stars": 18651
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T22:57:05Z",
+            "last_commit": "2026-08-14T15:26:29Z",
             "owner": "apple",
             "repo": "foundationdb",
             "stars": 16602
@@ -95,10 +95,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T17:30:32Z",
+            "last_commit": "2026-08-14T04:48:51Z",
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13616
+            "stars": 13624
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:11:55Z",
+            "last_commit": "2026-08-14T10:22:04Z",
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6603
+            "stars": 6604
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T18:19:56Z",
+            "last_commit": "2026-08-14T18:30:54Z",
             "owner": "uber",
             "repo": "NullAway",
-            "stars": 4089
+            "stars": 4090
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:35:30Z",
+            "last_commit": "2026-08-14T18:04:05Z",
             "owner": "aws",
             "repo": "aws-parallelcluster",
             "stars": 887
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:59:24Z",
+            "last_commit": "2026-08-14T16:07:12Z",
             "owner": "hyperledger-cacti",
             "repo": "cacti",
             "stars": 412
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-12T17:56:31Z",
             "owner": "AIDotNet",
             "repo": "OpenDeepWiki",
-            "stars": 3529
+            "stars": 3530
           }
         },
         {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:41:58.637Z",
+    "last_updated": "2026-08-14T18:35:58.794Z",
     "original_repository": "MyHoneyBadger/awesome-github-wiki",
     "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",
     "enhanced_repository": "enhansome/enhansome-github-wiki",
