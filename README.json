@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T14:57:00Z",
+            "last_commit": "2026-08-15T13:15:47Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126346
+            "stars": 126354
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T17:20:51Z",
+            "last_commit": "2026-08-15T16:49:00Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51917
+            "stars": 51885
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T18:16:53Z",
+            "last_commit": "2026-08-15T03:14:27Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40534
+            "stars": 40551
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2025-12-17T03:21:02Z",
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24469
+            "stars": 24468
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T18:26:48Z",
+            "last_commit": "2026-08-15T17:17:24Z",
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18651
+            "stars": 18652
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T15:26:29Z",
+            "last_commit": "2026-08-15T17:19:36Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16602
+            "stars": 16603
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:22:04Z",
+            "last_commit": "2026-08-14T19:28:05Z",
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6604
+            "stars": 6608
           }
         },
         {
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T18:30:54Z",
+            "last_commit": "2026-08-15T02:14:34Z",
             "owner": "uber",
             "repo": "NullAway",
             "stars": 4090
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:04:05Z",
+            "last_commit": "2026-08-14T20:10:38Z",
             "owner": "aws",
             "repo": "aws-parallelcluster",
             "stars": 887
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-12T17:56:31Z",
             "owner": "AIDotNet",
             "repo": "OpenDeepWiki",
-            "stars": 3530
+            "stars": 3529
           }
         },
         {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:35:58.794Z",
+    "last_updated": "2026-08-15T18:01:02.380Z",
     "original_repository": "MyHoneyBadger/awesome-github-wiki",
     "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",
     "enhanced_repository": "enhansome/enhansome-github-wiki",
