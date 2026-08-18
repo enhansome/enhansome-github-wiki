@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T17:44:58Z",
+            "last_commit": "2026-08-18T17:36:45Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126352
+            "stars": 126357
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T14:00:35Z",
+            "last_commit": "2026-08-18T16:08:53Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51884
+            "stars": 51883
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T16:32:19Z",
+            "last_commit": "2026-08-17T23:02:38Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40582
+            "stars": 40591
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2025-12-17T03:21:02Z",
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24470
+            "stars": 24471
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T17:28:30Z",
+            "last_commit": "2026-08-18T18:12:15Z",
             "owner": "facebook",
             "repo": "hhvm",
             "stars": 18653
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T16:42:55Z",
+            "last_commit": "2026-08-18T16:45:28Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16608
+            "stars": 16610
           }
         },
         {
@@ -95,10 +95,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T13:07:42Z",
+            "last_commit": "2026-08-18T15:06:07Z",
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13625
+            "stars": 13624
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T14:08:01Z",
+            "last_commit": "2026-08-18T18:11:50Z",
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6613
+            "stars": 6610
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-16T17:15:19Z",
             "owner": "uber",
             "repo": "NullAway",
-            "stars": 4090
+            "stars": 4091
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:01:30Z",
+            "last_commit": "2026-08-18T17:53:29Z",
             "owner": "aws",
             "repo": "aws-parallelcluster",
             "stars": 887
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:08:12Z",
+            "last_commit": "2026-08-18T08:52:10Z",
             "owner": "hyperledger-cacti",
             "repo": "cacti",
             "stars": 412
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-17T13:36:33Z",
             "owner": "AIDotNet",
             "repo": "OpenDeepWiki",
-            "stars": 3532
+            "stars": 3533
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2026-08-16T16:43:00Z",
             "owner": "he-yufeng",
             "repo": "RepoWiki",
-            "stars": 242
+            "stars": 244
           }
         },
         {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:16:55.813Z",
+    "last_updated": "2026-08-18T18:15:28.301Z",
     "original_repository": "MyHoneyBadger/awesome-github-wiki",
     "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",
     "enhanced_repository": "enhansome/enhansome-github-wiki",
