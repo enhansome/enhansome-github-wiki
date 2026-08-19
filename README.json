@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-19T12:13:05Z",
+            "last_commit": "2026-08-19T16:52:56Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126363
+            "stars": 126366
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T19:01:59Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51884
+            "stars": 51887
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:14:58Z",
+            "last_commit": "2026-08-19T13:36:08Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40598
+            "stars": 40601
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-19T12:07:15Z",
+            "last_commit": "2026-08-19T17:37:09Z",
             "owner": "facebook",
             "repo": "hhvm",
             "stars": 18654
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 114187903,
             "language": "C++",
-            "last_commit": "2026-08-18T22:34:43Z",
+            "last_commit": "2026-08-19T16:21:30Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16611
+            "stars": 16612
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 69609,
             "language": "Python",
-            "last_commit": "2026-08-18T23:08:09Z",
+            "last_commit": "2026-08-19T17:55:01Z",
             "owner": "internetarchive",
             "repo": "openlibrary",
             "stars": 6613
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 19718034,
             "language": "Python",
-            "last_commit": "2026-08-18T17:53:29Z",
+            "last_commit": "2026-08-19T17:11:41Z",
             "owner": "aws",
             "repo": "aws-parallelcluster",
             "stars": 887
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 216610150,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:52:10Z",
+            "last_commit": "2026-08-19T17:27:54Z",
             "owner": "hyperledger-cacti",
             "repo": "cacti",
             "stars": 412
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:31.182Z",
+    "last_updated": "2026-08-19T18:13:02.637Z",
     "original_repository": "MyHoneyBadger/awesome-github-wiki",
     "original_repository_id": 490239470,
     "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",

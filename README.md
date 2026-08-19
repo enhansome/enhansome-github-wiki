@@ -15,19 +15,19 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,363 | 🐛 1,049 | 🌐 C++ | 📅 2026-08-19
-* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,884 | 🐛 747 | 🌐 Java | 📅 2026-08-18
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 40,598 | 🐛 65 | 🌐 Rust | 📅 2026-08-19
+* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,366 | 🐛 1,054 | 🌐 C++ | 📅 2026-08-19
+* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,887 | 🐛 747 | 🌐 Java | 📅 2026-08-18
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 40,601 | 🐛 65 | 🌐 Rust | 📅 2026-08-19
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,471 | 🐛 58 | 🌐 Java | 📅 2025-12-17
 * [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,654 | 🐛 544 | 🌐 C++ | 📅 2026-08-19
-* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,611 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
+* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,612 | 🐛 772 | 🌐 C++ | 📅 2026-08-19
 * [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,624 | 🐛 3 | 🌐 C# | 📅 2026-08-19
-* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,613 | 🐛 922 | 🌐 Python | 📅 2026-08-18
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,613 | 🐛 921 | 🌐 Python | 📅 2026-08-19
 * [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,441 | 🐛 67 | 🌐 Ruby | 📅 2026-07-16
 * [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,224 | 🐛 181 | 🌐 Java | 📅 2022-10-19
 * [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,091 | 🐛 146 | 🌐 Java | 📅 2026-08-16
-* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 887 | 🐛 173 | 🌐 Python | 📅 2026-08-18
-* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 412 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-18
+* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 887 | 🐛 173 | 🌐 Python | 📅 2026-08-19
+* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 412 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-19
 
 ## Useful links with tips & tricks
 
