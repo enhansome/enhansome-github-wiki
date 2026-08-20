@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-19T16:52:56Z",
+            "last_commit": "2026-08-20T17:10:00Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126366
+            "stars": 126367
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 20300177,
             "language": "Java",
-            "last_commit": "2026-08-18T19:01:59Z",
+            "last_commit": "2026-08-20T16:28:35Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51887
+            "stars": 51889
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-19T13:36:08Z",
+            "last_commit": "2026-08-20T17:25:40Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40601
+            "stars": 40614
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-19T17:37:09Z",
+            "last_commit": "2026-08-20T17:52:59Z",
             "owner": "facebook",
             "repo": "hhvm",
             "stars": 18654
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 114187903,
             "language": "C++",
-            "last_commit": "2026-08-19T16:21:30Z",
+            "last_commit": "2026-08-20T14:49:39Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16612
+            "stars": 16613
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 44897462,
             "language": "C#",
-            "last_commit": "2026-08-19T02:45:08Z",
+            "last_commit": "2026-08-20T15:14:43Z",
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13624
+            "stars": 13627
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 69609,
             "language": "Python",
-            "last_commit": "2026-08-19T17:55:01Z",
+            "last_commit": "2026-08-20T15:34:01Z",
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6613
+            "stars": 6616
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 102137661,
             "language": "Java",
-            "last_commit": "2026-08-16T17:15:19Z",
+            "last_commit": "2026-08-20T17:55:50Z",
             "owner": "uber",
             "repo": "NullAway",
-            "stars": 4091
+            "stars": 4094
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 19718034,
             "language": "Python",
-            "last_commit": "2026-08-19T17:11:41Z",
+            "last_commit": "2026-08-20T15:18:43Z",
             "owner": "aws",
             "repo": "aws-parallelcluster",
             "stars": 887
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 216610150,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:27:54Z",
+            "last_commit": "2026-08-20T11:56:04Z",
             "owner": "hyperledger-cacti",
             "repo": "cacti",
             "stars": 412
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-19T06:07:37Z",
             "owner": "AIDotNet",
             "repo": "OpenDeepWiki",
-            "stars": 3534
+            "stars": 3535
           }
         },
         {
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:13:02.637Z",
+    "last_updated": "2026-08-20T18:17:00.019Z",
     "original_repository": "MyHoneyBadger/awesome-github-wiki",
     "original_repository_id": 490239470,
     "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",
