@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-22T07:51:18Z",
+            "last_commit": "2026-08-22T21:10:22Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126394
+            "stars": 126396
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T16:00:37Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51889
+            "stars": 51888
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-22T03:14:23Z",
+            "last_commit": "2026-08-22T21:32:07Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40640
+            "stars": 40657
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-12-17T03:21:02Z",
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24473
+            "stars": 24472
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-22T16:37:05Z",
+            "last_commit": "2026-08-23T16:37:57Z",
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18656
+            "stars": 18655
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 114187903,
             "language": "C++",
-            "last_commit": "2026-08-21T20:00:27Z",
+            "last_commit": "2026-08-22T21:59:50Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16628
+            "stars": 16636
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 44897462,
             "language": "C#",
-            "last_commit": "2026-08-22T02:34:16Z",
+            "last_commit": "2026-08-23T16:39:54Z",
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13628
+            "stars": 13630
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 69609,
             "language": "Python",
-            "last_commit": "2026-08-22T16:18:58Z",
+            "last_commit": "2026-08-23T15:49:17Z",
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6617
+            "stars": 6620
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 102137661,
             "language": "Java",
-            "last_commit": "2026-08-21T18:03:35Z",
+            "last_commit": "2026-08-23T14:31:50Z",
             "owner": "uber",
             "repo": "NullAway",
             "stars": 4093
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 973621150,
             "language": "C#",
-            "last_commit": "2026-08-22T08:16:02Z",
+            "last_commit": "2026-08-23T07:08:14Z",
             "owner": "AIDotNet",
             "repo": "OpenDeepWiki",
-            "stars": 3541
+            "stars": 3545
           }
         },
         {
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:01:25.476Z",
+    "last_updated": "2026-08-23T18:01:36.359Z",
     "original_repository": "MyHoneyBadger/awesome-github-wiki",
     "original_repository_id": 490239470,
     "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",
