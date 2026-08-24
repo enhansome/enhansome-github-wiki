@@ -12,7 +12,7 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-24T14:01:36Z",
+            "last_commit": "2026-08-24T18:06:52Z",
             "owner": "react",
             "repo": "react-native",
             "stars": 126405
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 20300177,
             "language": "Java",
-            "last_commit": "2026-08-21T16:00:37Z",
+            "last_commit": "2026-08-24T18:03:13Z",
             "owner": "google",
             "repo": "guava",
             "stars": 51890
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-23T21:19:27Z",
+            "last_commit": "2026-08-24T16:46:02Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40670
+            "stars": 40673
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-24T14:08:11Z",
+            "last_commit": "2026-08-24T17:51:04Z",
             "owner": "facebook",
             "repo": "hhvm",
             "stars": 18654
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T01:42:16Z",
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13632
+            "stars": 13633
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 216610150,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:34:48Z",
+            "last_commit": "2026-08-24T15:04:43Z",
             "owner": "hyperledger-cacti",
             "repo": "cacti",
             "stars": 412
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:49.309Z",
+    "last_updated": "2026-08-24T18:18:07.433Z",
     "original_repository": "MyHoneyBadger/awesome-github-wiki",
     "original_repository_id": 490239470,
     "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",
