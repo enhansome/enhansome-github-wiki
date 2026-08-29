@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for building native applications using React",
+            "homepage": "https://reactnative.dev",
             "id": 29028775,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:53:52Z",
+            "open_issues": 1103,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126443
+            "stars": 126447,
+            "topics": [
+              "android",
+              "app-framework",
+              "cross-platform",
+              "ios",
+              "mobile",
+              "mobile-development",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -26,12 +40,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google core libraries for Java",
+            "homepage": "https://guava.dev/",
             "id": 20300177,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:41:24Z",
+            "open_issues": 748,
             "owner": "google",
             "repo": "guava",
-            "stars": 51896
+            "stars": 51896,
+            "topics": [
+              "guava",
+              "java"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -42,12 +64,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+            "homepage": "https://sniffnet.app",
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-28T20:40:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:13:49Z",
+            "open_issues": 65,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40924
+            "stars": 40926,
+            "topics": [
+              "application",
+              "gui",
+              "iced",
+              "linux",
+              "macos",
+              "network",
+              "network-analysis",
+              "network-monitoring",
+              "networking",
+              "packet-analyser",
+              "packet-capture",
+              "packet-sniffer",
+              "pcap",
+              "rust",
+              "rust-crate",
+              "security",
+              "tool",
+              "utility",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -58,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",
+            "homepage": null,
             "id": 6766558,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-12-17T03:21:02Z",
+            "open_issues": 58,
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24475
+            "stars": 24474,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -74,12 +126,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A virtual machine for executing programs written in Hack.",
+            "homepage": "https://hhvm.com",
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-28T23:23:15Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:17:11Z",
+            "open_issues": 544,
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18656
+            "stars": 18656,
+            "topics": [
+              "hack",
+              "hacklang",
+              "hhvm",
+              "php"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -90,12 +152,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FoundationDB - the open source, distributed, transactional key-value store",
+            "homepage": "https://apple.github.io/foundationdb/",
             "id": 114187903,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:25:36Z",
+            "open_issues": 764,
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16650
+            "stars": 16650,
+            "topics": [
+              "acid",
+              "distributed-database",
+              "foundationdb",
+              "key-value-store",
+              "transactional"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -106,12 +179,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.",
+            "homepage": null,
             "id": 44897462,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:57:07Z",
+            "open_issues": 3,
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13651
+            "stars": 13651,
+            "topics": [
+              "archisteamfarm",
+              "automation",
+              "c-sharp",
+              "cli",
+              "cli-app",
+              "crowdin",
+              "csharp",
+              "dotnet",
+              "hacktoberfest",
+              "linux",
+              "steam",
+              "steam-account",
+              "steam-api",
+              "steam-cards",
+              "steam-client",
+              "steam-games",
+              "steam-network",
+              "steambot",
+              "steamkit2",
+              "valve"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -122,12 +221,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One webpage for every book ever published!",
+            "homepage": "https://openlibrary.org",
             "id": 69609,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-29T00:11:38Z",
+            "open_issues": 938,
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6639
+            "stars": 6639,
+            "topics": [
+              "books",
+              "hacktoberfest",
+              "internet-archive",
+              "library-catalogue",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -138,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guard is a command line tool to easily handle events on file system modifications.",
+            "homepage": null,
             "id": 812610,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-16T07:46:14Z",
+            "open_issues": 67,
             "owner": "guard",
             "repo": "guard",
-            "stars": 6441
+            "stars": 6441,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -154,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Graph Database",
+            "homepage": "http://titandb.io",
             "id": 3548254,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-19T07:57:00Z",
+            "open_issues": 181,
             "owner": "thinkaurelius",
             "repo": "titan",
-            "stars": 5226
+            "stars": 5226,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -170,12 +290,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead",
+            "homepage": null,
             "id": 102137661,
             "language": "Java",
-            "last_commit": "2026-08-28T23:59:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:04:47Z",
+            "open_issues": 146,
             "owner": "uber",
             "repo": "NullAway",
-            "stars": 4093
+            "stars": 4093,
+            "topics": [
+              "android",
+              "java",
+              "nullability",
+              "nullability-analysis",
+              "static-analysis",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -186,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS ParallelCluster is an AWS supported Open Source cluster management tool to deploy and manage HPC clusters in the AWS cloud.",
+            "homepage": "https://github.com/aws/aws-parallelcluster",
             "id": 19718034,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:18:41Z",
+            "open_issues": 171,
             "owner": "aws",
             "repo": "aws-parallelcluster",
-            "stars": 888
+            "stars": 888,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -202,12 +339,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyperledger Cacti is a new approach to the blockchain interoperability problem",
+            "homepage": "https://hyperledger-cacti.github.io/cacti/",
             "id": 216610150,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:33:19Z",
+            "open_issues": 88,
             "owner": "hyperledger-cacti",
             "repo": "cacti",
-            "stars": 413
+            "stars": 413,
+            "topics": [
+              "blockchain",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         }
@@ -224,12 +369,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Search wiki of the repository on Github",
+            "homepage": "http://userscripts.org/scripts/show/129930",
             "id": 3897980,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2018-11-15T01:30:18Z",
+            "open_issues": 6,
             "owner": "linyows",
             "repo": "github-wiki-search",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "chrome",
+              "github",
+              "userscript"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         }
@@ -246,12 +400,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.",
+            "homepage": "https://opendeep.wiki/",
             "id": 973621150,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-27T08:08:35Z",
+            "open_issues": 20,
             "owner": "AIDotNet",
             "repo": "OpenDeepWiki",
-            "stars": 3557
+            "stars": 3557,
+            "topics": [
+              "chatgpt",
+              "deepwiki",
+              "docs",
+              "fine-tuning"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -262,12 +426,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source DeepWiki alternative — generate comprehensive wiki documentation for any codebase from terminal or browser",
+            "homepage": "https://pypi.org/project/repowiki/",
             "id": 1211288569,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:27:42Z",
+            "open_issues": 1,
             "owner": "he-yufeng",
             "repo": "RepoWiki",
-            "stars": 258
+            "stars": 257,
+            "topics": [
+              "cli",
+              "deepwiki",
+              "documentation",
+              "llm",
+              "pagerank",
+              "python",
+              "react",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         },
@@ -278,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give topics & subtopics and generate wiki articles in markdown language with your openai api key",
+            "homepage": null,
             "id": 650808442,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-14T09:31:35Z",
+            "open_issues": 0,
             "owner": "Satttoshi",
             "repo": "github-wiki-generator",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:21.541Z"
         }
@@ -292,15 +475,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:21.541Z",
+    "last_updated": "2026-08-29T04:44:20.018Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":neckbeard: Awesome list GitHub Wikis",
+      "homepage": null,
       "id": 490239470,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-11T22:30:36Z",
+      "open_issues": 1,
       "owner": "MyHoneyBadger",
       "repo": "awesome-github-wiki",
-      "stars": 487
+      "stars": 487,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-wiki",
+        "awesomeness",
+        "github",
+        "github-wiki",
+        "hacktoberfest",
+        "stackoverflow",
+        "stackoverflow-answer",
+        "stackoverflow-questions",
+        "trending",
+        "trending-repositories"
+      ]
     },
     "original_repository_sha": "c97c9c7f1e1899eeb0b98247af322f5ec7348238",
     "enhanced_repository": "enhansome/enhansome-github-wiki",
