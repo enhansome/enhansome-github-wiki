@@ -12,11 +12,12 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-28T01:35:54Z",
+            "last_commit": "2026-08-28T18:53:52Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126431
-          }
+            "stars": 126443
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 20300177,
             "language": "Java",
-            "last_commit": "2026-08-27T01:21:47Z",
+            "last_commit": "2026-08-28T19:41:24Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51893
-          }
+            "stars": 51896
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-27T20:53:59Z",
+            "last_commit": "2026-08-28T20:40:21Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40889
-          }
+            "stars": 40924
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2025-12-17T03:21:02Z",
             "owner": "Netflix",
             "repo": "Hystrix",
-            "stars": 24474
-          }
+            "stars": 24475
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-27T23:18:22Z",
+            "last_commit": "2026-08-28T23:23:15Z",
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18654
-          }
+            "stars": 18656
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 114187903,
             "language": "C++",
-            "last_commit": "2026-08-27T20:38:45Z",
+            "last_commit": "2026-08-29T00:25:36Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16649
-          }
+            "stars": 16650
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 44897462,
             "language": "C#",
-            "last_commit": "2026-08-27T17:33:45Z",
+            "last_commit": "2026-08-28T19:57:07Z",
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13648
-          }
+            "stars": 13651
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 69609,
             "language": "Python",
-            "last_commit": "2026-08-27T21:14:35Z",
+            "last_commit": "2026-08-29T00:11:38Z",
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6634
-          }
+            "stars": 6639
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "guard",
             "repo": "guard",
             "stars": 6441
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "thinkaurelius",
             "repo": "titan",
             "stars": 5226
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 102137661,
             "language": "Java",
-            "last_commit": "2026-08-27T23:54:37Z",
+            "last_commit": "2026-08-28T23:59:30Z",
             "owner": "uber",
             "repo": "NullAway",
-            "stars": 4092
-          }
+            "stars": 4093
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "aws",
             "repo": "aws-parallelcluster",
             "stars": 888
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -192,11 +204,12 @@
             "archived": false,
             "id": 216610150,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:36:18Z",
+            "last_commit": "2026-08-28T10:33:19Z",
             "owner": "hyperledger-cacti",
             "repo": "cacti",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         }
       ],
       "title": "Examples"
@@ -217,7 +230,8 @@
             "owner": "linyows",
             "repo": "github-wiki-search",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         }
       ],
       "title": "Useful links with tips & tricks"
@@ -237,8 +251,9 @@
             "last_commit": "2026-08-27T08:08:35Z",
             "owner": "AIDotNet",
             "repo": "OpenDeepWiki",
-            "stars": 3553
-          }
+            "stars": 3557
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 1211288569,
             "language": "Python",
-            "last_commit": "2026-08-27T03:50:41Z",
+            "last_commit": "2026-08-28T12:27:42Z",
             "owner": "he-yufeng",
             "repo": "RepoWiki",
-            "stars": 256
-          }
+            "stars": 258
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         },
         {
           "node_type": "item",
@@ -268,14 +284,15 @@
             "owner": "Satttoshi",
             "repo": "github-wiki-generator",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.541Z"
         }
       ],
       "title": "Popular AI Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:47:26.367Z",
+    "last_updated": "2026-08-29T01:11:21.541Z",
     "original_repository_info": {
       "archived": false,
       "id": 490239470,
