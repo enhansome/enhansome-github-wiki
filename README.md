@@ -15,19 +15,19 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,459 | 🐛 1,158 | 🌐 C++ | 📅 2026-08-29
-* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,893 | 🐛 751 | 🌐 Java | 📅 2026-08-30
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 40,950 | 🐛 64 | 🌐 Rust | 📅 2026-08-29
-* [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,473 | 🐛 58 | 🌐 Java | 📅 2025-12-17
-* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,657 | 🐛 546 | 🌐 C++ | 📅 2026-08-30
-* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,653 | 🐛 765 | 🌐 C++ | 📅 2026-08-29
-* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,657 | 🐛 3 | 🌐 C# | 📅 2026-08-30
-* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,645 | 🐛 944 | 🌐 Python | 📅 2026-08-30
-* [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,441 | 🐛 67 | 🌐 Ruby | 📅 2026-07-16
+* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,468 | 🐛 1,172 | 🌐 C++ | 📅 2026-08-31
+* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,893 | 🐛 753 | 🌐 Java | 📅 2026-08-31
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 40,960 | 🐛 67 | 🌐 Rust | 📅 2026-08-31
+* [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,474 | 🐛 58 | 🌐 Java | 📅 2025-12-17
+* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,660 | 🐛 547 | 🌐 C++ | 📅 2026-08-31
+* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,654 | 🐛 766 | 🌐 C++ | 📅 2026-08-31
+* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,658 | 🐛 3 | 🌐 C# | 📅 2026-08-31
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,648 | 🐛 946 | 🌐 Python | 📅 2026-08-31
+* [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,440 | 🐛 67 | 🌐 Ruby | 📅 2026-07-16
 * [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,227 | 🐛 181 | 🌐 Java | 📅 2022-10-19
-* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,095 | 🐛 150 | 🌐 Java | 📅 2026-08-30
+* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,097 | 🐛 155 | 🌐 Java | 📅 2026-08-30
 * [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 889 | 🐛 172 | 🌐 Python | 📅 2026-08-27
-* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 413 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-28
+* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 414 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-31
 
 ## Useful links with tips & tricks
 
@@ -72,8 +72,8 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 
 ## Popular AI Tools
 
-* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,556 | 🐛 21 | 🌐 C# | 📅 2026-08-27
-* [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 259 | 🐛 1 | 🌐 Python | 📅 2026-08-28
+* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,563 | 🐛 21 | 🌐 C# | 📅 2026-08-27
+* [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 260 | 🐛 1 | 🌐 Python | 📅 2026-08-31
 * [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2023-07-14
 * [Github Wiki Generator](https://github.com/Samyc2002/GithubWikiGenerator) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-06-19
 * [CodeWiki (Google)](https://codewiki.google/)
@@ -86,4 +86,4 @@ Contributions are very welcome! Please read the [contribution guideline](contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
