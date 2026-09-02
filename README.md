@@ -15,19 +15,19 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,478 | 🐛 1,169 | 🌐 C++ | 📅 2026-09-01
-* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,895 | 🐛 754 | 🌐 Java | 📅 2026-09-01
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 40,971 | 🐛 69 | 🌐 Rust | 📅 2026-08-31
+* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,483 | 🐛 1,155 | 🌐 C++ | 📅 2026-09-02
+* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,894 | 🐛 753 | 🌐 Java | 📅 2026-09-02
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 40,988 | 🐛 68 | 🌐 Rust | 📅 2026-09-02
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,474 | 🐛 58 | 🌐 Java | 📅 2025-12-17
-* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,659 | 🐛 547 | 🌐 C++ | 📅 2026-09-01
-* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,657 | 🐛 765 | 🌐 C++ | 📅 2026-09-01
-* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,659 | 🐛 3 | 🌐 C# | 📅 2026-09-01
-* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,649 | 🐛 931 | 🌐 Python | 📅 2026-09-01
+* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,659 | 🐛 547 | 🌐 C++ | 📅 2026-09-02
+* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,659 | 🐛 763 | 🌐 C++ | 📅 2026-09-02
+* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,663 | 🐛 3 | 🌐 C# | 📅 2026-09-02
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,652 | 🐛 922 | 🌐 Python | 📅 2026-09-02
 * [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,439 | 🐛 67 | 🌐 Ruby | 📅 2026-07-16
 * [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,227 | 🐛 181 | 🌐 Java | 📅 2022-10-19
-* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,099 | 🐛 157 | 🌐 Java | 📅 2026-09-01
-* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 889 | 🐛 172 | 🌐 Python | 📅 2026-09-01
-* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 414 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-01
+* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,099 | 🐛 158 | 🌐 Java | 📅 2026-09-02
+* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 889 | 🐛 171 | 🌐 Python | 📅 2026-09-02
+* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 414 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-02
 
 ## Useful links with tips & tricks
 
@@ -72,8 +72,8 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 
 ## Popular AI Tools
 
-* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,563 | 🐛 21 | 🌐 C# | 📅 2026-08-27
-* [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 260 | 🐛 1 | 🌐 Python | 📅 2026-08-31
+* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,564 | 🐛 22 | 🌐 C# | 📅 2026-08-27
+* [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 261 | 🐛 1 | 🌐 Python | 📅 2026-08-31
 * [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2023-07-14
 * [Github Wiki Generator](https://github.com/Samyc2002/GithubWikiGenerator) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-06-19
 * [CodeWiki (Google)](https://codewiki.google/)
@@ -86,4 +86,4 @@ Contributions are very welcome! Please read the [contribution guideline](contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
