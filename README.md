@@ -15,17 +15,17 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,784 | 🐛 1,110 | 🌐 C++ | 📅 2026-10-02
-* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,912 | 🐛 748 | 🌐 Java | 📅 2026-10-02
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 41,317 | 🐛 63 | 🌐 Rust | 📅 2026-10-01
+* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,787 | 🐛 1,110 | 🌐 C++ | 📅 2026-10-03
+* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,913 | 🐛 748 | 🌐 Java | 📅 2026-10-03
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 41,316 | 🐛 63 | 🌐 Rust | 📅 2026-10-03
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,485 | 🐛 58 | 🌐 Java | 📅 2025-12-17
-* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,663 | 🐛 550 | 🌐 C++ | 📅 2026-10-02
-* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,742 | 🐛 790 | 🌐 C++ | 📅 2026-10-02
-* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,725 | 🐛 3 | 🌐 C# | 📅 2026-10-02
-* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,725 | 🐛 971 | 🌐 Python | 📅 2026-10-02
+* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,664 | 🐛 550 | 🌐 C++ | 📅 2026-10-03
+* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,743 | 🐛 789 | 🌐 C++ | 📅 2026-10-03
+* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,727 | 🐛 3 | 🌐 C# | 📅 2026-10-02
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,726 | 🐛 969 | 🌐 Python | 📅 2026-10-03
 * [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,434 | 🐛 68 | 🌐 Ruby | 📅 2026-07-16
 * [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,228 | 🐛 181 | 🌐 Java | 📅 2022-10-19
-* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,112 | 🐛 157 | 🌐 Java | 📅 2026-10-02
+* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,112 | 🐛 155 | 🌐 Java | 📅 2026-10-02
 * [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 887 | 🐛 171 | 🌐 Python | 📅 2026-09-29
 * [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 416 | 🐛 97 | 🌐 TypeScript | 📅 2026-10-01
 * [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 17 | 🐛 19 | 🌐 C# | 📅 2026-10-02
@@ -87,4 +87,4 @@ Contributions are very welcome! Please read the [contribution guideline](contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

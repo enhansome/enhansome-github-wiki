@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "facebook/react-native",
-          "description": null,
+          "description": "react/react-native",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:41:51Z",
+            "last_commit": "2026-10-03T02:00:48Z",
             "open_issues": 1110,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126784,
+            "stars": 126787,
             "topics": [
               "android",
               "app-framework",
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "google/guava",
-          "description": null,
+          "description": "google/guava",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,11 +45,11 @@
             "id": 20300177,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:59:43Z",
+            "last_commit": "2026-10-03T03:17:40Z",
             "open_issues": 748,
             "owner": "google",
             "repo": "guava",
-            "stars": 51912,
+            "stars": 51913,
             "topics": [
               "guava",
               "java"
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "GyulyVGC/sniffnet",
-          "description": null,
+          "description": "GyulyVGC/sniffnet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,11 +69,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:54:25Z",
+            "last_commit": "2026-10-03T03:13:45Z",
             "open_issues": 63,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 41317,
+            "stars": 41316,
             "topics": [
               "app",
               "application",
@@ -102,7 +102,7 @@
         {
           "node_type": "item",
           "title": "Netflix/Hystrix",
-          "description": null,
+          "description": "Netflix/Hystrix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -123,7 +123,7 @@
         {
           "node_type": "item",
           "title": "facebook/hhvm",
-          "description": null,
+          "description": "facebook/hhvm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,11 +132,11 @@
             "id": 455600,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T21:24:45Z",
+            "last_commit": "2026-10-03T00:06:08Z",
             "open_issues": 550,
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18663,
+            "stars": 18664,
             "topics": [
               "hack",
               "hacklang",
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "apple/foundationdb",
-          "description": null,
+          "description": "apple/foundationdb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -158,11 +158,11 @@
             "id": 114187903,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:32:34Z",
-            "open_issues": 790,
+            "last_commit": "2026-10-03T02:56:39Z",
+            "open_issues": 789,
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16742,
+            "stars": 16743,
             "topics": [
               "acid",
               "distributed-database",
@@ -176,7 +176,7 @@
         {
           "node_type": "item",
           "title": "JustArchiNET/ArchiSteamFarm",
-          "description": null,
+          "description": "JustArchiNET/ArchiSteamFarm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -189,7 +189,7 @@
             "open_issues": 3,
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13725,
+            "stars": 13727,
             "topics": [
               "archisteamfarm",
               "automation",
@@ -218,7 +218,7 @@
         {
           "node_type": "item",
           "title": "internetarchive/openlibrary",
-          "description": null,
+          "description": "internetarchive/openlibrary",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -227,11 +227,11 @@
             "id": 69609,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T17:12:45Z",
-            "open_issues": 971,
+            "last_commit": "2026-10-03T03:53:03Z",
+            "open_issues": 969,
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6725,
+            "stars": 6726,
             "topics": [
               "books",
               "hacktoberfest",
@@ -245,7 +245,7 @@
         {
           "node_type": "item",
           "title": "guard/guard",
-          "description": null,
+          "description": "guard/guard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "thinkaurelius/titan",
-          "description": null,
+          "description": "thinkaurelius/titan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -287,7 +287,7 @@
         {
           "node_type": "item",
           "title": "uber/NullAway",
-          "description": null,
+          "description": "uber/NullAway",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,8 +296,8 @@
             "id": 102137661,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:24:56Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-02T21:40:22Z",
+            "open_issues": 155,
             "owner": "uber",
             "repo": "NullAway",
             "stars": 4112,
@@ -315,7 +315,7 @@
         {
           "node_type": "item",
           "title": "AWS/aws-parallelcluster",
-          "description": null,
+          "description": "aws/aws-parallelcluster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,7 +336,7 @@
         {
           "node_type": "item",
           "title": "hyperledger-cacti/cacti",
-          "description": null,
+          "description": "hyperledger-cacti/cacti",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -360,7 +360,7 @@
         {
           "node_type": "item",
           "title": "Isthimius/Gondwana",
-          "description": null,
+          "description": "Isthimius/Gondwana",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -369,7 +369,7 @@
             "id": 41597827,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:25:34Z",
+            "last_commit": "2026-10-02T21:34:43Z",
             "open_issues": 19,
             "owner": "Isthimius",
             "repo": "Gondwana",
@@ -407,7 +407,7 @@
         {
           "node_type": "item",
           "title": "Search wiki of the repository on GitHub",
-          "description": null,
+          "description": "linyows/github-wiki-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -438,7 +438,7 @@
         {
           "node_type": "item",
           "title": "OpenDeepWiki",
-          "description": null,
+          "description": "AIDotNet/OpenDeepWiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -464,7 +464,7 @@
         {
           "node_type": "item",
           "title": "RepoWiki",
-          "description": null,
+          "description": "he-yufeng/RepoWiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -494,7 +494,7 @@
         {
           "node_type": "item",
           "title": "Github Wiki Generator",
-          "description": null,
+          "description": "Satttoshi/github-wiki-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,7 +515,7 @@
         {
           "node_type": "item",
           "title": "Github Wiki Generator",
-          "description": null,
+          "description": "Samyc2002/GithubWikiGenerator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -543,7 +543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:27:16.510Z",
+    "last_updated": "2026-10-03T04:46:23.746Z",
     "original_repository_info": {
       "archived": false,
       "description": ":neckbeard: Awesome list GitHub Wikis",
