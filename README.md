@@ -15,20 +15,20 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,795 | 🐛 1,122 | 🌐 C++ | 📅 2026-10-04
-* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,916 | 🐛 748 | 🌐 Java | 📅 2026-10-03
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 41,334 | 🐛 61 | 🌐 Rust | 📅 2026-10-04
+* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,800 | 🐛 1,136 | 🌐 C++ | 📅 2026-10-05
+* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,920 | 🐛 752 | 🌐 Java | 📅 2026-10-05
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 41,341 | 🐛 61 | 🌐 Rust | 📅 2026-10-05
 * [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,486 | 🐛 58 | 🌐 Java | 📅 2025-12-17
-* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,663 | 🐛 551 | 🌐 C++ | 📅 2026-10-04
-* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,749 | 🐛 791 | 🌐 C++ | 📅 2026-10-03
-* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,734 | 🐛 3 | 🌐 C# | 📅 2026-10-03
-* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,729 | 🐛 970 | 🌐 Python | 📅 2026-10-04
+* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,665 | 🐛 551 | 🌐 C++ | 📅 2026-10-05
+* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,754 | 🐛 794 | 🌐 C++ | 📅 2026-10-05
+* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,734 | 🐛 3 | 🌐 C# | 📅 2026-10-05
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,730 | 🐛 963 | 🌐 Python | 📅 2026-10-05
 * [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,434 | 🐛 68 | 🌐 Ruby | 📅 2026-07-16
 * [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,228 | 🐛 181 | 🌐 Java | 📅 2022-10-19
-* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,115 | 🐛 156 | 🌐 Java | 📅 2026-10-04
-* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 887 | 🐛 172 | 🌐 Python | 📅 2026-09-29
-* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 416 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-04
-* [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 17 | 🐛 18 | 🌐 C# | 📅 2026-10-04
+* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,116 | 🐛 164 | 🌐 Java | 📅 2026-10-05
+* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 887 | 🐛 174 | 🌐 Python | 📅 2026-10-05
+* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 416 | 🐛 96 | 🌐 TypeScript | 📅 2026-10-05
+* [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 17 | 🐛 18 | 🌐 C# | 📅 2026-10-05
 
 ## Useful links with tips & tricks
 
@@ -73,8 +73,8 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 
 ## Popular AI Tools
 
-* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,616 | 🐛 19 | 🌐 C# | 📅 2026-10-04
-* [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-10-02
+* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,615 | 🐛 19 | 🌐 C# | 📅 2026-10-04
+* [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 293 | 🐛 3 | 🌐 Python | 📅 2026-10-04
 * [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2023-07-14
 * [Github Wiki Generator](https://github.com/Samyc2002/GithubWikiGenerator) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-06-19
 * [CodeWiki (Google)](https://codewiki.google/)
@@ -87,4 +87,4 @@ Contributions are very welcome! Please read the [contribution guideline](contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
