@@ -15,20 +15,20 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,809 | 🐛 1,161 | 🌐 C++ | 📅 2026-10-07
-* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,923 | 🐛 750 | 🌐 Java | 📅 2026-10-07
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 41,354 | 🐛 61 | 🌐 Rust | 📅 2026-10-06
-* [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,485 | 🐛 58 | 🌐 Java | 📅 2025-12-17
-* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,665 | 🐛 550 | 🌐 C++ | 📅 2026-10-07
-* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,760 | 🐛 797 | 🌐 C++ | 📅 2026-10-07
-* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,736 | 🐛 3 | 🌐 C# | 📅 2026-10-07
-* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,733 | 🐛 955 | 🌐 Python | 📅 2026-10-07
+* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,607 | 🐛 1,156 | 🌐 C++ | 📅 2026-10-08
+* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,923 | 🐛 750 | 🌐 Java | 📅 2026-10-08
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 41,362 | 🐛 62 | 🌐 Rust | 📅 2026-10-06
+* [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,483 | 🐛 58 | 🌐 Java | 📅 2025-12-17
+* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,665 | 🐛 550 | 🌐 C++ | 📅 2026-10-08
+* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,764 | 🐛 802 | 🌐 C++ | 📅 2026-10-08
+* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,744 | 🐛 3 | 🌐 C# | 📅 2026-10-08
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,736 | 🐛 964 | 🌐 Python | 📅 2026-10-08
 * [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,434 | 🐛 68 | 🌐 Ruby | 📅 2026-07-16
-* [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,228 | 🐛 181 | 🌐 Java | 📅 2022-10-19
-* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,116 | 🐛 154 | 🌐 Java | 📅 2026-10-07
-* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 887 | 🐛 175 | 🌐 Python | 📅 2026-10-06
-* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 416 | 🐛 93 | 🌐 TypeScript | 📅 2026-10-07
-* [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 17 | 🐛 16 | 🌐 C# | 📅 2026-10-07
+* [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,227 | 🐛 181 | 🌐 Java | 📅 2022-10-19
+* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,118 | 🐛 156 | 🌐 Java | 📅 2026-10-08
+* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 887 | 🐛 176 | 🌐 Python | 📅 2026-10-06
+* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 416 | 🐛 93 | 🌐 TypeScript | 📅 2026-10-08
+* [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 17 | 🐛 16 | 🌐 C# | 📅 2026-10-08
 
 ## Useful links with tips & tricks
 
@@ -73,8 +73,8 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 
 ## Popular AI Tools
 
-* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,616 | 🐛 19 | 🌐 C# | 📅 2026-10-07
-* [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 293 | 🐛 2 | 🌐 Python | 📅 2026-10-04
+* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,620 | 🐛 18 | 🌐 C# | 📅 2026-10-07
+* [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 297 | 🐛 2 | 🌐 Python | 📅 2026-10-04
 * [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2023-07-14
 * [Github Wiki Generator](https://github.com/Samyc2002/GithubWikiGenerator) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-06-19
 * [CodeWiki (Google)](https://codewiki.google/)
@@ -87,4 +87,4 @@ Contributions are very welcome! Please read the [contribution guideline](contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
