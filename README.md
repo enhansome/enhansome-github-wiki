@@ -15,20 +15,20 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,695 | 🐛 1,184 | 🌐 C++ | 📅 2026-10-17
-* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,921 | 🐛 759 | 🌐 Java | 📅 2026-10-17
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 41,594 | 🐛 67 | 🌐 Rust | 📅 2026-10-17
-* [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,486 | 🐛 58 | 🌐 Java | 📅 2025-12-17
-* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,666 | 🐛 559 | 🌐 C++ | 📅 2026-10-17
-* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,782 | 🐛 793 | 🌐 C++ | 📅 2026-10-17
-* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,754 | 🐛 3 | 🌐 C# | 📅 2026-10-17
-* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,760 | 🐛 988 | 🌐 Python | 📅 2026-10-17
+* [facebook/react-native](https://github.com/facebook/react-native/wiki) ⭐ 126,703 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-17
+* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,918 | 🐛 757 | 🌐 Java | 📅 2026-10-18
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 41,616 | 🐛 58 | 🌐 Rust | 📅 2026-10-18
+* [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,485 | 🐛 58 | 🌐 Java | 📅 2025-12-17
+* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,666 | 🐛 560 | 🌐 C++ | 📅 2026-10-18
+* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,783 | 🐛 792 | 🌐 C++ | 📅 2026-10-18
+* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,755 | 🐛 3 | 🌐 C# | 📅 2026-10-17
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,763 | 🐛 997 | 🌐 Python | 📅 2026-10-17
 * [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,433 | 🐛 68 | 🌐 Ruby | 📅 2026-07-16
 * [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,226 | 🐛 181 | 🌐 Java | 📅 2022-10-19
-* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,125 | 🐛 169 | 🌐 Java | 📅 2026-10-17
+* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,125 | 🐛 169 | 🌐 Java | 📅 2026-10-18
 * [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 887 | 🐛 174 | 🌐 Python | 📅 2026-10-16
 * [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 416 | 🐛 119 | 🌐 TypeScript | 📅 2026-10-15
-* [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 18 | 🐛 23 | 🌐 C# | 📅 2026-10-17
+* [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 18 | 🐛 21 | 🌐 C# | 📅 2026-10-18
 
 ## Useful links with tips & tricks
 
@@ -87,4 +87,4 @@ Contributions are very welcome! Please read the [contribution guideline](contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
