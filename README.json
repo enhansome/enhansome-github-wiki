@@ -5,36 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "facebook/react-native",
-          "description": "react/react-native",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A framework for building native applications using React",
-            "homepage": "https://reactnative.dev",
-            "id": 29028775,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-10-30T21:22:43Z",
-            "open_issues": 1332,
-            "owner": "react",
-            "repo": "react-native",
-            "stars": 126835,
-            "topics": [
-              "android",
-              "app-framework",
-              "cross-platform",
-              "ios",
-              "mobile",
-              "mobile-development",
-              "react",
-              "react-native"
-            ]
-          },
-          "first_seen": "2026-08-29T01:11:21.541Z"
-        },
-        {
-          "node_type": "item",
           "title": "google/guava",
           "description": "google/guava",
           "children": [],
@@ -45,11 +15,11 @@
             "id": 20300177,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T19:34:11Z",
-            "open_issues": 760,
+            "last_commit": "2026-10-31T15:52:26Z",
+            "open_issues": 761,
             "owner": "google",
             "repo": "guava",
-            "stars": 51914,
+            "stars": 51913,
             "topics": [
               "guava",
               "java"
@@ -69,11 +39,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T21:40:09Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-31T03:13:52Z",
+            "open_issues": 58,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 41770,
+            "stars": 41794,
             "topics": [
               "app",
               "application",
@@ -136,7 +106,7 @@
             "open_issues": 561,
             "owner": "meta",
             "repo": "hhvm",
-            "stars": 18679,
+            "stars": 18680,
             "topics": [
               "hack",
               "hacklang",
@@ -158,8 +128,8 @@
             "id": 114187903,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T21:32:42Z",
-            "open_issues": 800,
+            "last_commit": "2026-10-31T02:01:32Z",
+            "open_issues": 799,
             "owner": "apple",
             "repo": "foundationdb",
             "stars": 16828,
@@ -185,11 +155,11 @@
             "id": 44897462,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T20:46:31Z",
+            "last_commit": "2026-10-31T04:48:27Z",
             "open_issues": 3,
             "owner": "JustArchiNET",
             "repo": "ArchiSteamFarm",
-            "stars": 13779,
+            "stars": 13778,
             "topics": [
               "archisteamfarm",
               "automation",
@@ -227,11 +197,11 @@
             "id": 69609,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T21:16:53Z",
-            "open_issues": 1022,
+            "last_commit": "2026-10-31T10:34:32Z",
+            "open_issues": 1028,
             "owner": "internetarchive",
             "repo": "openlibrary",
-            "stars": 6793,
+            "stars": 6797,
             "topics": [
               "books",
               "hacktoberfest",
@@ -296,8 +266,8 @@
             "id": 102137661,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-30T21:04:39Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-31T19:40:20Z",
+            "open_issues": 159,
             "owner": "uber",
             "repo": "NullAway",
             "stars": 4126,
@@ -369,8 +339,8 @@
             "id": 41597827,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T21:39:38Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-31T01:24:09Z",
+            "open_issues": 17,
             "owner": "Isthimius",
             "repo": "Gondwana",
             "stars": 20,
@@ -452,7 +422,7 @@
             "open_issues": 18,
             "owner": "AIDotNet",
             "repo": "OpenDeepWiki",
-            "stars": 3649,
+            "stars": 3651,
             "topics": [
               "chatgpt",
               "deepwiki",
@@ -478,7 +448,7 @@
             "open_issues": 4,
             "owner": "he-yufeng",
             "repo": "RepoWiki",
-            "stars": 300,
+            "stars": 299,
             "topics": [
               "cli",
               "deepwiki",
@@ -544,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:42:09.256Z",
+    "last_updated": "2026-10-31T20:41:55.186Z",
     "original_repository_info": {
       "archived": false,
       "description": ":neckbeard: Awesome list GitHub Wikis",
@@ -552,7 +522,7 @@
       "id": 490239470,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-26T14:24:22Z",
+      "last_commit": "2026-10-31T07:29:21Z",
       "open_issues": 1,
       "owner": "MyHoneyBadger",
       "repo": "awesome-github-wiki",
@@ -572,7 +542,7 @@
         "trending-repositories"
       ]
     },
-    "original_repository_sha": "ebf5fb16900c416b455d6511e4bd41c1f26ef095",
+    "original_repository_sha": "371a708150eeba831ceca2d70cb64aafc26c0870",
     "enhanced_repository": "enhansome/enhansome-github-wiki",
     "enhanced_repository_description": null,
     "title": "Awesome GitHub Wikis with stars"
