@@ -15,19 +15,19 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,927 | 🐛 778 | 🌐 Java | 📅 2026-11-13
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 42,837 | 🐛 61 | 🌐 Rust | 📅 2026-11-14
-* [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,478 | 🐛 58 | 🌐 Java | 📅 2025-12-17
-* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,686 | 🐛 562 | 🌐 C++ | 📅 2026-11-15
-* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,862 | 🐛 822 | 🌐 C++ | 📅 2026-11-15
-* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,815 | 🐛 1 | 🌐 C# | 📅 2026-11-15
-* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,909 | 🐛 1,033 | 🌐 Python | 📅 2026-11-15
-* [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,426 | 🐛 70 | 🌐 Ruby | 📅 2026-07-16
+* [google/guava](https://github.com/google/guava/wiki) ⭐ 51,926 | 🐛 781 | 🌐 Java | 📅 2026-11-16
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) ⭐ 42,947 | 🐛 61 | 🌐 Rust | 📅 2026-11-16
+* [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) ⭐ 24,475 | 🐛 58 | 🌐 Java | 📅 2025-12-17
+* [facebook/hhvm](https://github.com/facebook/hhvm/wiki) ⭐ 18,686 | 🐛 562 | 🌐 C++ | 📅 2026-11-16
+* [apple/foundationdb](https://github.com/apple/foundationdb/wiki) ⭐ 16,863 | 🐛 822 | 🌐 C++ | 📅 2026-11-17
+* [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) ⭐ 13,817 | 🐛 1 | 🌐 C# | 📅 2026-11-17
+* [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) ⭐ 6,922 | 🐛 1,036 | 🌐 Python | 📅 2026-11-16
+* [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) ⭐ 6,426 | 🐛 69 | 🌐 Ruby | 📅 2026-11-16
 * [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) ⭐ 5,223 | 🐛 181 | 🌐 Java | 📅 2022-10-19
-* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,135 | 🐛 185 | 🌐 Java | 📅 2026-11-15
-* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 886 | 🐛 174 | 🌐 Python | 📅 2026-11-13
-* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 412 | 🐛 116 | 🌐 TypeScript | 📅 2026-11-13
-* [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 21 | 🐛 16 | 🌐 C# | 📅 2026-11-15
+* [uber/NullAway](https://github.com/uber/NullAway/wiki) ⭐ 4,136 | 🐛 189 | 🌐 Java | 📅 2026-11-16
+* [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) ⭐ 886 | 🐛 173 | 🌐 Python | 📅 2026-11-16
+* [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) ⭐ 412 | 🐛 112 | 🌐 TypeScript | 📅 2026-11-16
+* [Isthimius/Gondwana](https://github.com/Isthimius/Gondwana/wiki) ⭐ 21 | 🐛 17 | 🌐 C# | 📅 2026-11-16
 
 ## Useful links with tips & tricks
 
@@ -72,7 +72,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 
 ## Popular AI Tools
 
-* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,663 | 🐛 20 | 🌐 C# | 📅 2026-10-23
+* [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) ⭐ 3,664 | 🐛 20 | 🌐 C# | 📅 2026-10-23
 * [RepoWiki](https://github.com/he-yufeng/RepoWiki) ⭐ 307 | 🐛 4 | 🌐 Python | 📅 2026-10-23
 * [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2023-07-14
 * [Github Wiki Generator](https://github.com/Samyc2002/GithubWikiGenerator) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-06-19
@@ -86,4 +86,4 @@ Contributions are very welcome! Please read the [contribution guideline](contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
